@@ -14,6 +14,6 @@ https://www.playosmo.com/en/
 
 https://www.tiggly.com/
 
-## Software
+# Educational Software
 
 https://www.kodable.com/
