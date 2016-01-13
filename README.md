@@ -1,4 +1,4 @@
-# Educational Toys
+# Hardware
 
 http://www.modrobotics.com/
 
@@ -10,12 +10,12 @@ https://www.goldieblox.com/
 
 http://www.snapcircuits.net/
 
-## iPad extensions
+## For the iPad
 
 https://www.playosmo.com/en/
 
 https://www.tiggly.com/
 
-# Educational Software
+# Software
 
 https://www.kodable.com/
