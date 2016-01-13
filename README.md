@@ -10,6 +10,8 @@ https://www.goldieblox.com/
 
 http://www.snapcircuits.net/
 
+http://raspberry.piaustralia.com.au/products/raspberry-pi-beginners-kit
+
 ## For the iPad
 
 https://www.playosmo.com/en/
